@@ -1,0 +1,13 @@
+<resources>
+    <string name="no_results_found">Opps! No Result Found for the search, try something else.</string>
+    <string name="search_hint">Search albums</string>
+    <string name="search_image">Image</string>
+    <string name="title_albums">Albums</string>
+    <string name="title_artists">Artists</string>
+    <string name="title_tracks">Tracks</string>
+    <string name="btn_back">Back</string>
+    <string name="search_image_desc">Search result image</string>
+    <string name="attribution">powered by last.fm</string>
+    <string name="about_app">developed by Puneet</string>
+    <string name="empty_string"> </string>
+</resources>

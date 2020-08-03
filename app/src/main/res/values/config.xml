@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Wipro Musical</string>
+    <string name="api_key">1647ddfec093fc52856d0bd5dfac938f</string>
+    <string name="search_api_base_url">http://ws.audioscrobbler.com</string>
+    <string name="search_api_version">2.0</string>
+</resources>

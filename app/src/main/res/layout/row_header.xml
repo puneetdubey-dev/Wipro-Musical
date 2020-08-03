@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable
+            name="album"
+            type="com.puneet.musicalwipro.albumsearch.model.CommonSearchResult" />
+    </data>
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/search_header_card_height"
+        android:text="@{album.title??@string/empty_string}"
+        style="@style/appLabel.title"
+        tools:text="Albums">
+
+    </TextView></layout>
